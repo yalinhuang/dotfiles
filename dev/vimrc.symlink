@@ -1,0 +1,9 @@
+syntax on
+
+set hlsearch
+
+set expandtab "insert spaces for tabs
+set shiftwidth=4 "indentation without tabs
+set softtabstop=4 "indentation without tabs
+
+set number

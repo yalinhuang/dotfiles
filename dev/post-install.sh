@@ -3,4 +3,4 @@ for java in $(find /Library/Java/JavaVirtualMachines -mindepth 1 -maxdepth 1 ! -
 
 # vim-polygot bundle
 mkdir -p ~/.vim/pack/default/start && \
-    ln -s ~/.vim-polyglot /Users/yalinh/.vim/pack/default/start/vim-polyglot
+    ln -s -f ~/.vim-polyglot /Users/yalinh/.vim/pack/default/start/vim-polyglot

@@ -1,5 +1,5 @@
 export PATH=$PATH:$HOME/.cargo/bin
-export PROMPT='${ret_status} %{$fg[cyan]%}%30<...<%~%<<%{$reset_color%} $(git_prompt_info)'
+export PROMPT='${ret_status} %{$fg[cyan]%}%30<...<%~%<<%{$reset_color%} $(git_prompt_info) '
 
 # By default, `zsh` prints '%' at the end of a partial line (a line not ending in '\n') to
 # indicate the end of line.

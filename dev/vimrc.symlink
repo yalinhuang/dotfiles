@@ -7,3 +7,5 @@ set shiftwidth=4 "indentation without tabs
 set softtabstop=4 "indentation without tabs
 
 set number
+set laststatus=2
+set statusline=%#PmenuSel#\ @[%l:%c]\ %f

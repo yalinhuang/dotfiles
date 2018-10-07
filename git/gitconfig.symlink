@@ -3,12 +3,12 @@
 [core]
     excludesfile = /Users/yalinh/.gitignore_global
     pager = "diff-so-fancy | less --tabs=4 -RFX"
-	editor = vim
+    editor = vim
 [diff-so-fancy]
     markEmptyLines = false
-	first-run = false
+    first-run = false
 [color]
-	ui = true
+    ui = true
 [credential]
     helper = osxkeychain
 [push]
@@ -17,7 +17,7 @@
     ff = only
 [pull]
     default = current
-	ff = true
+    ff = true
 [rebase]
     autosquash = true
 [alias]

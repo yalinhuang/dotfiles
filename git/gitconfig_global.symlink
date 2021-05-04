@@ -1,7 +1,4 @@
-[include]
-    path = /Users/yalinh/.gitconfig_local
 [core]
-    excludesfile = /Users/yalinh/.gitignore_global
     pager = "diff-so-fancy | less --tabs=4 -RFX"
     editor = vim
 [diff-so-fancy]

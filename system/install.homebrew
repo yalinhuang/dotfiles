@@ -11,8 +11,6 @@ httpie
 httpstat
 jq
 lolcat
-md5sha1sum
-osquery
 parallel
 pkgdiff
 readline
@@ -22,3 +20,5 @@ wget
 xmlstarlet
 zsh
 htop
+vim
+watch
